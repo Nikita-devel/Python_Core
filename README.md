@@ -1,3 +1,5 @@
+[Main page](https://github.com/Nikita-devel) 
+
 # Python Core Course Repository
 
 This repository contains materials and projects related to the Python Core course at GoIT.
